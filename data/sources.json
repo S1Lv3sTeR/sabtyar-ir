@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-02T00:00:00+03:30",
+  "sources": [
+    {
+      "name": "سازمان سنجش آموزش کشور",
+      "category": "آزمون",
+      "official_domain": "sanjesh.org",
+      "url": "https://www.sanjesh.org/",
+      "enabled": true,
+      "crawl_pages": [
+        "https://www.sanjesh.org/"
+      ]
+    },
+    {
+      "name": "مرکز آزمون جهاد دانشگاهی",
+      "category": "استخدام",
+      "official_domain": "hrtc.ir",
+      "url": "https://hrtc.ir/",
+      "enabled": true,
+      "crawl_pages": [
+        "https://hrtc.ir/"
+      ]
+    },
+    {
+      "name": "دانشگاه آزاد اسلامی - مرکز سنجش، پذیرش و فارغ‌التحصیلی",
+      "category": "دانشگاه",
+      "official_domain": "azmoon.org",
+      "url": "https://azmoon.org/",
+      "enabled": true,
+      "crawl_pages": [
+        "https://azmoon.org/"
+      ]
+    },
+    {
+      "name": "سامانه ملی خدمات دولت هوشمند",
+      "category": "خدمات",
+      "official_domain": "my.gov.ir",
+      "url": "https://my.gov.ir/",
+      "enabled": true,
+      "crawl_pages": [
+        "https://my.gov.ir/"
+      ]
+    }
+  ],
+  "policy": "Only publish a registration when the destination is an official/verified domain and its start/end dates and status have been checked.",
+  "bot_policy": "ربات فقط دامنه‌های رسمی تعریف‌شده را می‌گردد، لینک رکوردهای موجود را در صورت تطابق قوی اصلاح می‌کند و لینک‌های جدید را برای بررسی در bot-report ثبت می‌کند. تاریخ‌ها حدس زده نمی‌شوند."
+}

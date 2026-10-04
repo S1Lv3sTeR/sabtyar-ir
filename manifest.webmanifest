@@ -1,0 +1,12 @@
+{
+  "name": "ثبت‌یار",
+  "short_name": "ثبت‌یار",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#155eef",
+  "description": "مرکز ثبت‌نام‌های اینترنتی ایران",
+  "version": "4.0-beta-rebuilt"
+}
